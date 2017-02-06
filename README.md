@@ -18,7 +18,7 @@ Most of my work is in the /app and /test folders along with updating the landing
 This is a fairly rough implementation and I would like to:
 
 - implement filters & sorting
-- write more tests
+- write more tests and used pure TDD
 - spend more time on the design (this was a simple implementation)
 - reassess the size of the react components and the use of styled-components
 
